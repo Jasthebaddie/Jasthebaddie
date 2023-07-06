@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Jasthebaddie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...codeing 
+- 🌱 I’m currently learning ... nothing
+- 💞️ I’m looking to collaborate on ... anything
+- 📫 How to reach me ...jmhharper1108@gmail.com
+
 
 <!---
 Jasthebaddie/Jasthebaddie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
